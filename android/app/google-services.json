@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004922464779",
+    "project_id": "fullstack-32aa3",
+    "storage_bucket": "fullstack-32aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004922464779:android:64490cf6aa5b9f1986350e",
+        "android_client_info": {
+          "package_name": "com.example.learning_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004922464779-703h17tljftk7tfkhf68lnglbepulfiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1Wd6HpqYuqHOwq1A-Cd1-_o9Myyn1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004922464779-703h17tljftk7tfkhf68lnglbepulfiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

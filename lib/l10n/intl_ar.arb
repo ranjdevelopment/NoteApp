@@ -1,0 +1,62 @@
+{
+"logout_button": "چونە دەرەوە",
+    "note": "تێبینی",
+    "cancel": "ڕەتکردنەوە",
+    "yes": "بەڵێ",
+    "delete": "سڕینەوە",
+    "sharing": "بڵاوکردنەوە",
+    "ok": "بەڵێ",
+    "login": "چونە ژورەوە",
+    "verify_email": "ئیمەیڵ پشتڕاست کردنەوە",
+    "register": "تۆمار کردن",
+    "restart": "دوبارە بوونەوە",
+
+    "start_typing_your_note": "دەست بکە بە نوسینی تێبینیەکەت",
+    "delete_note_prompt": "دڵنیایت بۆ سڕینەوەی ئەم تێبینیە؟?",
+    "cannot_share_empty_note_prompt": "ناتوانی تێبینی باتاڵ بسڕیتەوە!",
+    "generic_error_prompt": "هەڵەیەک ڕوویدا",
+    "logout_dialog_prompt": "دڵنیایت بۆ چوونە دەرەوە?",
+
+    "password_reset": "دانانەوەی وشەی نهێنی",
+    "password_reset_dialog_prompt": "ئێمە لینکی وشەی نهێنیمان بۆ ناردووی تکایە ئیمەڵەکەت بپشکنە بۆ زانیاری زیاتر.",
+
+    "login_error_cannot_find_user": "ناتوانرێت ئەم هەژمارە بدۆزرێتەوە!",
+    "login_error_wrong_credentials": "هەژماری هەڵە",
+    "login_error_auth_error": "هەڵەی تەکنیکی",
+
+    "login_view_prompt": "تکایە بچۆرە ناو ئەکاونتەکەت بۆ ئەوەی تێبینی بنووسی!",
+    
+    "login_view_forgot_password": "وشەی نهێنیم بیر چۆتەوە",
+    "login_view_not_registered_yet": "خۆت تۆمار نەکردووە? لێرە خۆت تۆمار بکە!",
+
+    "email_text_field_placeholder": "ئیمەڵەکەت لێرە بنووسە",
+    "password_text_field_placeholder": "وشەی نهێنی لێرە بنووسە",
+    
+    "forgot_password": "وشەی نهێنیم بیر چۆتەوە",
+    "forgot_password_view_generic_error": "ئێمە نەمانتوانی داواکارییەکەت جێبەجێ بکەین. تکایە دڵنیابە لەوەی کە بەکارهێنەرێکی تۆمارکراویت، یان ئەگەر نا، ئێستا بەکارهێنەرێک تۆمار بکە بە گەڕانەوە بۆ هەنگاوێک بۆ دواوە.",
+    "forgot_password_view_prompt": "ئەگەر وشەی نهێنی لەبیرت چوو،ئیمەیڵەکەت بنووسە و ئێمە لینکی ڕێستکردنی وشەی نهێنی بۆ دەنێرین.",
+    "forgot_password_view_send_me_link": "لینکی ڕێستکردنی وشەی نهێنی بۆم بنێرە",
+    "forgot_password_view_back_to_login": "گەڕانەوە بۆ پەڕەی چوونە ژوورەوە",
+
+    "register_error_weak_password": "ئەم وشەی نهێنی بە ڕادەی پێویست پارێزراو نییە. تکایە وشەی نهێنی تر هەڵبژێرە!",
+    "register_error_email_already_in_use": "ئەم ئیمەیڵە پێشتر بۆ بەکارهێنەرێکی تر تۆمار کراوە. تکایە ئیمەیڵێکی تر هەڵبژێرە!",
+    "register_error_generic": "شکستی هێنا لە تۆمارکردن. تکایە دووبارە هەوڵبدەرەوە!",
+    "register_error_invalid_email": "پێدەچێت ئەو ئیمەیڵەی کە داخڵت کردووە نادروست بێت. تکایە ناونیشانی ئیمەیڵێکی تر تاقی بکەرەوە!",
+    "register_view_prompt": "ئیمەیڵ و وشەی نهێنی خۆت بنووسە بۆ بینینی تێبینیەکانت!",
+    "register_view_already_registered": "پێشتر تۆمار كراوه‌? لێرە بچۆرە ژوورەوە!",
+
+    "verify_email_view_prompt": "ئێمە ئیمەیڵێکمان بۆ ناردووە بۆ پشتڕاستکردنەوە. تکایە بیکەرەوە بۆ دڵنیابوون لە ئەکاونتەکەت. ئەگەر تا ئێستا ئیمەیڵێکی پشتڕاستکردنەوەت پێنەگەیشتووە، ئەوا دوگمەی خوارەوە داگرە!",
+    "verify_email_send_email_verification": "پشتڕاستکردنەوەی ئیمەیڵ بنێرە",
+
+   
+   "notes_title": "{count, plural, =0{لە ئێستادا هیچ تێبینییەک نییە} =1{١ تێبینی} other{{count} تێبینی}}", 
+     "@notes_title": { 
+         "placeholders": { 
+             "count": { 
+                 "type": "int", 
+                 "example": "٣ تێبینی" 
+             } 
+         } 
+     }
+
+}
